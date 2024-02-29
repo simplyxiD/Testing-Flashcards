@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6aKjmk0EOUI" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">FlipCardDetailed01</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="FlipCardDetailed01_ORG">
+    <organization identifier="FlipCardDetailed01_ORG">
+      <title>FlipCardDetailed01</title>
+      <item identifier="FlipCardDetailed_SCO" isvisible="true" identifierref="__6aKjmk0EOUI_RES">
+        <title>FlipCardDetailed01</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6aKjmk0EOUI_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6AYolXjFUK8_M_1440_1440.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5z5GwmJ0yTL.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5s04AR23oSj.jpg" />
+      <file href="mobile/Slide5ZFhKgJOXSR.png" />
+      <file href="mobile/Shape6FnB6ozb2t5.png" />
+      <file href="mobile/Shape6ZGio76GMOq.png" />
+      <file href="mobile/Shape6DtneLqHpmw.png" />
+      <file href="mobile/Shape61FZ8gFsvOA.png" />
+      <file href="mobile/Shape6a4bV0wnYFK.png" />
+      <file href="mobile/Shape5hibUcTIFgZ.png" />
+      <file href="mobile/Shape5hBpahpuQpY.png" />
+      <file href="mobile/Shape6XXJ5OANqSl.png" />
+      <file href="mobile/Shape5pv5UhV3Eg8.png" />
+      <file href="mobile/Shape68i5atIvBqK.png" />
+      <file href="mobile/Shape6HYvrxB09AD.png" />
+      <file href="mobile/Shape5cpBHAfNEv7.png" />
+      <file href="mobile/Shape6pLokukv5eK.png" />
+      <file href="mobile/Shape5nP25zFiG0i.png" />
+      <file href="mobile/Shape6Za73EiMI2G.png" />
+      <file href="mobile/Shape5nxkDMmwCrQ.png" />
+      <file href="mobile/Shape6DlD1yiPFWZ.png" />
+      <file href="mobile/Shape5oquBHrqMvZ.png" />
+      <file href="mobile/Shape5YZbizr9dHE.png" />
+      <file href="mobile/Shape6FW1gFHdRl5.png" />
+      <file href="mobile/Shape5gCtCOPHN8t.png" />
+      <file href="mobile/Shape6e79qdk37OJ.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a1RdvyTcvG.js" />
+      <file href="html5/data/js/5hEo2UCm7WP.js" />
+      <file href="html5/data/js/5ja1SVMgpW6.js" />
+      <file href="html5/data/js/5oUkCmnH9xh.js" />
+      <file href="html5/data/js/5tzXKOc3nYa.js" />
+      <file href="html5/data/js/6b7ybbo6nE0.js" />
+      <file href="html5/data/js/6BLLDCqgdVV.js" />
+      <file href="html5/data/js/6f4EEbkkPT3.js" />
+      <file href="html5/data/js/6h1crjKq3QT.js" />
+      <file href="html5/data/js/6HzbFmnznm3.js" />
+      <file href="html5/data/js/6Jw6Hk9zE2U.js" />
+      <file href="html5/data/js/6PJ383SBVZh.js" />
+      <file href="html5/data/js/6WHYEgYkR0i.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
